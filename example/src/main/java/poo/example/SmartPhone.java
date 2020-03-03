@@ -1,4 +1,4 @@
-package poo.example;
+﻿package poo.example;
 
 public class SmartPhone extends Celular{
 	
@@ -7,6 +7,8 @@ public class SmartPhone extends Celular{
 	float tamanioMemoriaInterna;
 	
 	//constructor por defecto
+	//cambios en constructor para conflictos primero aca que abajo
+	
 	public SmartPhone() {
 	}
 
@@ -23,9 +25,12 @@ public class SmartPhone extends Celular{
 	public void informarCaracteristicas() {
 		// TODO Auto-generated method stub
 		super.informarCaracteristicas();
-		System.out.println(String.format("SmartPhone calidad cámara: %s pixeles", pixelesCamara));
-		System.out.println(String.format("SmartPhone tamaño memoria interna: %s GB", tamanioMemoriaInterna));
-		System.out.println(String.format("SmartPhone tamaño memoria externa: %s GB", tamanioMemoriaExterna));
+		//System.out.println(String.format("SmartPhone calidad cámara: %s pixeles", pixelesCamara));
+		//System.out.println(String.format("SmartPhone tamaño memoria interna: %s GB", tamanioMemoriaInterna));
+		//System.out.println(String.format("SmartPhone tamaño memoria externa: %s GB", tamanioMemoriaExterna));
+
+//cambios en constructor para conflictos
+
 	}
 	
 	
