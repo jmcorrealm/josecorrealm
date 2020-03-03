@@ -1,4 +1,4 @@
-package poo.example;
+﻿package poo.example;
 
 public class SmartPhone extends Celular{
 	
@@ -26,6 +26,9 @@ public class SmartPhone extends Celular{
 		//System.out.println(String.format("SmartPhone calidad cámara: %s pixeles", pixelesCamara));
 		//System.out.println(String.format("SmartPhone tamaño memoria interna: %s GB", tamanioMemoriaInterna));
 		//System.out.println(String.format("SmartPhone tamaño memoria externa: %s GB", tamanioMemoriaExterna));
+
+//cambios en constructor para conflictos
+
 	}
 	
 	
