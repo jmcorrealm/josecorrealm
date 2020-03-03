@@ -23,9 +23,9 @@ public class SmartPhone extends Celular{
 	public void informarCaracteristicas() {
 		// TODO Auto-generated method stub
 		super.informarCaracteristicas();
-		System.out.println(String.format("SmartPhone calidad cámara: %s pixeles", pixelesCamara));
-		System.out.println(String.format("SmartPhone tamaño memoria interna: %s GB", tamanioMemoriaInterna));
-		System.out.println(String.format("SmartPhone tamaño memoria externa: %s GB", tamanioMemoriaExterna));
+		//System.out.println(String.format("SmartPhone calidad cámara: %s pixeles", pixelesCamara));
+		//System.out.println(String.format("SmartPhone tamaño memoria interna: %s GB", tamanioMemoriaInterna));
+		//System.out.println(String.format("SmartPhone tamaño memoria externa: %s GB", tamanioMemoriaExterna));
 	}
 	
 	
