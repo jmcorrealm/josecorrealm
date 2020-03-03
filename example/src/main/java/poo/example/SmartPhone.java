@@ -7,6 +7,8 @@ public class SmartPhone extends Celular{
 	float tamanioMemoriaInterna;
 	
 	//constructor por defecto
+	//cambios en constructor para conflictos primero aca que abajo
+	
 	public SmartPhone() {
 	}
 
